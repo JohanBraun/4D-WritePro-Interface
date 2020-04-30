@@ -1,0 +1,65 @@
+﻿{
+	"Sources/Forms/WP_Toolbar/ObjectMethods/Stylesheet_Names.4dm": {
+		"startSelection": 13,
+		"endSelection": 13,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-04-30T08:58:21.483Z"
+	},
+	"Sources/Methods/TB_GotoPage.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-04-30T08:58:21.492Z"
+	},
+	"Sources/Forms/WP_Toolbar/ObjectMethods/tab2.4dm": {
+		"startSelection": 0,
+		"endSelection": 11,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-04-30T08:58:21.488Z"
+	},
+	"Sources/Methods/WP_GetStyleSheets.4dm": {
+		"startSelection": 17,
+		"endSelection": 37,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-04-30T08:58:21.503Z"
+	},
+	"Sources/Forms/WP_Toolbar/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 81,
+		"lastSelectedLine": 81,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-04-30T08:58:21.490Z"
+	},
+	"Sources/Methods/WP_GetStylesheetType.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-04-30T08:58:21.503Z"
+	},
+	"Sources/Methods/UI_ToolbarStylesheets.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-04-30T08:58:21.497Z"
+	}
+}

@@ -1,0 +1,16 @@
+﻿{
+	"forms": {
+		"InputPalettes": {
+			"timeStamp": "2020-04-30T08:58:21.515Z",
+			"destination": "detailScreen"
+		},
+		"Output": {
+			"timeStamp": "2020-04-30T08:58:21.517Z",
+			"destination": "listScreen"
+		},
+		"InputToolBar": {
+			"timeStamp": "2020-04-30T08:58:21.516Z",
+			"destination": "detailScreen"
+		}
+	}
+}

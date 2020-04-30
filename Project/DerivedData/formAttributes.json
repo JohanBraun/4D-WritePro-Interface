@@ -1,0 +1,76 @@
+﻿{
+	"forms": {
+		"WP_Palette_Fonts": {
+			"timeStamp": "2020-04-30T08:58:21.466Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_Palette_Information": {
+			"timeStamp": "2020-04-30T08:58:21.472Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_Palette": {
+			"timeStamp": "2020-04-30T08:58:21.454Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_Palette_Frames": {
+			"timeStamp": "2020-04-30T08:58:21.470Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_Palette_Tables": {
+			"timeStamp": "2020-04-30T08:58:21.479Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_StyleSheetEdit": {
+			"timeStamp": "2020-04-30T08:58:21.483Z",
+			"destination": "detailScreen"
+		},
+		"WP_Palette_Sizes": {
+			"timeStamp": "2020-04-30T08:58:21.475Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"IconTest": {
+			"timeStamp": "2020-04-30T08:58:21.450Z",
+			"destination": "detailScreen"
+		},
+		"WP_Toolbar": {
+			"timeStamp": "2020-04-30T09:50:44.368Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_Palette_BookMarks": {
+			"timeStamp": "2020-04-30T08:58:21.462Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_Palette_Backgrounds": {
+			"timeStamp": "2020-04-30T08:58:21.461Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_Palette_StyleSheets": {
+			"timeStamp": "2020-04-30T08:58:21.477Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_CustomColors": {
+			"timeStamp": "2020-04-30T08:58:21.452Z",
+			"destination": "detailScreen"
+		},
+		"WP_Palette_Tabulations": {
+			"timeStamp": "2020-04-30T08:58:21.481Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"WP_Palette_Alignments": {
+			"timeStamp": "2020-04-30T08:58:21.458Z",
+			"destination": "detailScreen",
+			"shared": true
+		}
+	}
+}

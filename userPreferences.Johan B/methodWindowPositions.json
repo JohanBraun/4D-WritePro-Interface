@@ -1,0 +1,44 @@
+﻿{
+	"Sources/Forms/WP_Toolbar/ObjectMethods/Stylesheet_Names.4dm": {
+		"left": 1216,
+		"top": 1081,
+		"width": 991,
+		"height": 947
+	},
+	"Sources/Methods/TB_GotoPage.4dm": {
+		"left": 1066,
+		"top": 866,
+		"width": 991,
+		"height": 947
+	},
+	"Sources/Forms/WP_Toolbar/ObjectMethods/tab2.4dm": {
+		"left": 1066,
+		"top": 866,
+		"width": 991,
+		"height": 947
+	},
+	"Sources/Methods/WP_GetStyleSheets.4dm": {
+		"left": 1066,
+		"top": 866,
+		"width": 991,
+		"height": 947
+	},
+	"Sources/Forms/WP_Toolbar/method.4dm": {
+		"left": 1021,
+		"top": 485,
+		"width": 991,
+		"height": 947
+	},
+	"Sources/Methods/WP_GetStylesheetType.4dm": {
+		"left": 1066,
+		"top": 866,
+		"width": 991,
+		"height": 947
+	},
+	"Sources/Methods/UI_ToolbarStylesheets.4dm": {
+		"left": 1066,
+		"top": 866,
+		"width": 991,
+		"height": 947
+	}
+}

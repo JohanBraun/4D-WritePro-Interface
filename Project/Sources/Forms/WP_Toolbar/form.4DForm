@@ -1140,7 +1140,7 @@
 				},
 				"Rect2": {
 					"type": "rectangle",
-					"top": 0,
+					"top": 284,
 					"left": 0,
 					"width": 880,
 					"height": 90,
@@ -1150,7 +1150,7 @@
 				},
 				"Text2": {
 					"type": "text",
-					"top": 20,
+					"top": 444,
 					"left": 0,
 					"width": 880,
 					"height": 60,
